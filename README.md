@@ -1,0 +1,2 @@
+# FantasyGold-WP
+FantasyGold Whitepaper 
